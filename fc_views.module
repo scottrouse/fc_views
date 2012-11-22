@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Fire Center Views feature.
+ */
+
+include_once 'fc_views.features.inc';
